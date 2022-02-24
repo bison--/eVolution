@@ -1,0 +1,4 @@
+[submodule "pygameFpsCounter"]
+	path = pygameFpsCounter
+	url = git@github.com:bison--/pygameFpsCounter.git
+	branch = main
