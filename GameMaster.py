@@ -4,7 +4,7 @@ import config
 from local_modules.BaseModule import BaseModule
 from local_modules.BindText import BindText
 import local_modules.HamsterModule as HamsterModule
-from pygameFpsCounter_bak import FpsCounterSlim
+from pygameFpsCounter import FpsCounterSlim
 
 
 class GameMaster:
